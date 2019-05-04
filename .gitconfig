@@ -1,0 +1,8 @@
+[user]
+	email = eduardo.garcia@magmalabs.io
+	name = Eduardo Hernandez
+[commit]
+	template = ~/.gitmessage
+
+[core]
+	editor = vim
