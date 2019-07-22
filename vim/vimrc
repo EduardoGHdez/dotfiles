@@ -1,0 +1,20 @@
+set nocompatible
+filetype off 
+
+" Add fuzzy finder to runtimepath
+set rtp+=/usr/local/opt/fzf
+nnoremap <silent> <C-f> :FZF<CR>
+
+" Softabs, 2 spaces
+set tabstop=2
+set shiftwidth=2
+set shiftround
+set expandtab
+
+set splitbelow
+set splitright
+
+set number
+autocmd FileType gitcommit set textwidth=72
+autocmd FileType gitcommit set colorcolumn=73
+set colorcolumn=101
