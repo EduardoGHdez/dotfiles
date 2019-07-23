@@ -10,3 +10,6 @@
 [submodule "vim/config/pack/plugins/start/vim-ruby"]
 	path = vim/config/pack/plugins/start/vim-ruby
 	url = https://github.com/vim-ruby/vim-ruby.git
+[submodule "vim/config/pack/plugins/start/auto-pairs"]
+	path = vim/config/pack/plugins/start/auto-pairs
+	url = https://github.com/jiangmiao/auto-pairs.git
