@@ -13,3 +13,6 @@
 [submodule "vim/config/pack/plugins/start/auto-pairs"]
 	path = vim/config/pack/plugins/start/auto-pairs
 	url = https://github.com/jiangmiao/auto-pairs.git
+[submodule "vim/config/pack/plugins/start/vim-rails"]
+	path = vim/config/pack/plugins/start/vim-rails
+	url = https://github.com/tpope/vim-rails.git
