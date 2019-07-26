@@ -11,6 +11,9 @@ set shiftwidth=2
 set shiftround
 set expandtab
 
+set swapfile
+set dir=~/.tmp
+
 set splitbelow
 set splitright
 
