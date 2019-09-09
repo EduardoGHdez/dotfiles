@@ -16,3 +16,6 @@
 [submodule "vim/config/pack/plugins/start/vim-rails"]
 	path = vim/config/pack/plugins/start/vim-rails
 	url = https://github.com/tpope/vim-rails.git
+[submodule "vim/config/pack/plugins/start/vim-rspec"]
+	path = vim/config/pack/plugins/start/vim-rspec
+	url = https://github.com/thoughtbot/vim-rspec
