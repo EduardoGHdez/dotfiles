@@ -3,7 +3,7 @@ filetype off
 
 " Add fuzzy finder to runtimepath
 set rtp+=/usr/local/opt/fzf
-nnoremap <silent> <C-f> :FZF<CR>
+nnoremap <silent> <C-p> :FZF<CR>
 
 " Softabs, 2 spaces
 set tabstop=2
