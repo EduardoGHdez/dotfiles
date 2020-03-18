@@ -3,6 +3,7 @@
 	name = Eduardo Hernandez
 [commit]
 	template = ~/.gitmessage
-
+[fetch]
+  prune = true
 [core]
 	editor = vim
