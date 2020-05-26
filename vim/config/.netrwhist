@@ -1,0 +1,10 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =8
+let g:netrw_dirhist_8='/Users/eduardoghdez/Documents/magmalabs/lendinghome-monolith/consumer/lib/tasks/referrals'
+let g:netrw_dirhist_7='/Users/eduardoghdez/Documents/magmalabs/lendinghome-monolith/consumer/lib/tasks/ab_experiment'
+let g:netrw_dirhist_6='/Users/eduardoghdez/Documents/magmalabs/lendinghome-monolith/consumer/lib/tasks'
+let g:netrw_dirhist_5='/Users/eduardoghdez/Documents/magmalabs/lendinghome-monolith/gems/core/app/views/devise/registrations'
+let g:netrw_dirhist_4='/Users/eduardoghdez/Documents/magmalabs/lendinghome-monolith'
+let g:netrw_dirhist_3='/Users/eduardoghdez/.rbenv/versions/2.5.7/lib/ruby/gems/2.5.0/gems/simple_form-5.0.0/lib/simple_form/inputs'
+let g:netrw_dirhist_2='/Users/eduardoghdez/Documents/magmalabs/lendinghome-monolith/gems/core/app/services/prepayment_penalty_service/schedules'
+let g:netrw_dirhist_1='/Users/eduardoghdez/Documents/magmalabs/lendinghome-monolith/gems/lh_config/script/bp/2020-04-20'
