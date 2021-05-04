@@ -1,7 +1,7 @@
 #!/bin/sh
 
 echo "Create symlink for gitconfig..."
-ln -sf $(pwd)/gitconfig ~/.gitconfig
+ln -sf ~/dotfiles/git/gitconfig ~/.gitconfig
 
 echo "Create symlink for gitmessage..."
-ln -sf $(pwd)/gitmessage ~/.gitmessage
+ln -sf ~/dotfiles/git/gitmessage ~/.gitmessage
