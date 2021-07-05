@@ -119,3 +119,6 @@ export NVM_DIR="$HOME/.nvm"
 nvm use 12.13.1
 
 setopt histignorespace
+eval "ssh-add -K ~/.ssh/id_rsa"
+
+alias git-rubocop="git ls-files -m | xargs ls -1 2>/dev/null | grep '\.rb$' | xargs rubocop"
