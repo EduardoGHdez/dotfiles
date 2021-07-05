@@ -19,3 +19,12 @@
 [submodule "vim/config/pack/plugins/start/vim-rspec"]
 	path = vim/config/pack/plugins/start/vim-rspec
 	url = https://github.com/thoughtbot/vim-rspec
+[submodule "vim/config/pack/plugins/start/vim-rhubarb"]
+	path = vim/config/pack/plugins/start/vim-rhubarb
+	url = git@github.com:tpope/vim-rhubarb.git
+[submodule "vim/config/pack/plugins/start/typescript-vim"]
+	path = vim/config/pack/plugins/start/typescript-vim
+	url = git@github.com:leafgarland/typescript-vim.git
+[submodule "vim/config/pack/plugins/start/vim-prettier"]
+	path = vim/config/pack/plugins/start/vim-prettier
+	url = https://github.com/prettier/vim-prettier
