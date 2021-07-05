@@ -3,7 +3,13 @@
 	name = Eduardo Hernandez
 [commit]
 	template = ~/.gitmessage
+  excludeFile = ~/.gitignore
 [fetch]
   prune = true
 [core]
 	editor = vim
+[sendemail]
+  smtpserver = smtp.gmail.com
+  smtpuser = eduardoghdez.io@gmail.com
+  smtpencryption = tls
+  smtpserverport = 587
