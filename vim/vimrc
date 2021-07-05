@@ -11,11 +11,15 @@ set shiftwidth=2
 set shiftround
 set expandtab
 
-set swapfile
+set noswapfile
 set dir=~/.tmp
 
 set splitbelow
 set splitright
+
+set hlsearch
+hi Search ctermbg=LightGreen
+hi Search ctermfg=Black
 
 set number
 autocmd FileType gitcommit set textwidth=72
