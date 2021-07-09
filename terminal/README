@@ -1,0 +1,20 @@
+# These are my personal preferences for the terminal:
+- Font: [Hack Nerd Font](https://github.com/ryanoasis/nerd-fonts)
+- Color theme: [Nord](https://github.com/arcticicestudio/nord-terminal-app)
+
+## Color theme Installation:
+1. Start Terminal.app and open the Preferences
+2. Switch to the Profiles tab located in the topbar
+3. Click on the gear icon and select the Import... entry
+4. Import the downloaded Nord.terminal file
+![][img/ss-nord-installation.png]
+
+## Fonts installation:
+```
+brew tap homebrew/cask-fonts
+brew install --cask font-hack-nerd-font
+```
+
+## Acknowledgements
+- Thanks to [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) for the font
+- Thanks to [Artic Ice Studio](https://github.com/arcticicestudio) for the color theme
