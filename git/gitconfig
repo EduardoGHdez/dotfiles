@@ -1,15 +1,30 @@
 [user]
-	email = eduardoghdez.io@gmail.com
-	name = Eduardo Hernandez
+  email = eduardoghdez.io@gmail.com
+  name = Eduardo Hernandez
 [commit]
-	template = ~/.gitmessage
+  template = ~/.gitmessage
   excludeFile = ~/.gitignore
 [fetch]
   prune = true
 [core]
-	editor = vim
+  editor = vim
+  excludesfile = /Users/eduardoghdez/.gitignore
+  pager = delta --dark
 [sendemail]
   smtpserver = smtp.gmail.com
   smtpuser = eduardoghdez.io@gmail.com
   smtpencryption = tls
   smtpserverport = 587
+[pull]
+  rebase = true
+[init]
+  defaultBranch = main
+[interactive]
+  diffFilter = delta --color-only
+[delta]
+  line-numbers = true
+  navigate = true
+[merge]
+  conflictstyle = diff3
+[diff]
+  colorMoved = default
