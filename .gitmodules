@@ -28,3 +28,9 @@
 [submodule "vim/config/pack/plugins/start/vim-prettier"]
 	path = vim/config/pack/plugins/start/vim-prettier
 	url = https://github.com/prettier/vim-prettier
+[submodule "/Users/eduardoghdez/dotfiles/vim/config/pack/plugins/start/vim-elixir"]
+	path = /Users/eduardoghdez/dotfiles/vim/config/pack/plugins/start/vim-elixir
+	url = https://github.com/elixir-editors/vim-elixir.git
+[submodule "/Users/eduardoghdez/dotfiles/vim/config/pack/plugins/start/rhubarb"]
+	path = /Users/eduardoghdez/dotfiles/vim/config/pack/plugins/start/rhubarb
+	url = git@github.com:tpope/vim-rhubarb.git
