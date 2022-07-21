@@ -34,3 +34,8 @@ nnoremap <C-l> <C-w>l
 
 " Commands
 command Json %! python -m json.tool
+command Rspec ! bundle exec rspec
+
+" Vim test
+" See: https://github.com/vim-test/vim-test#setup
+nmap <silent> <C-t> :TestNearest<CR>

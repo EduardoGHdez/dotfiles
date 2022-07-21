@@ -34,3 +34,6 @@
 [submodule "/Users/eduardoghdez/dotfiles/vim/config/pack/plugins/start/rhubarb"]
 	path = /Users/eduardoghdez/dotfiles/vim/config/pack/plugins/start/rhubarb
 	url = git@github.com:tpope/vim-rhubarb.git
+[submodule "vim/config/pack/plugins/start/vim-test"]
+	path = vim/config/pack/plugins/start/vim-test
+	url = git@github.com:vim-test/vim-test.git
