@@ -21,10 +21,14 @@ set hlsearch
 hi Search ctermbg=LightGreen
 hi Search ctermfg=Black
 
+set ignorecase
+set smartcase
+
 set number
 autocmd FileType gitcommit set textwidth=72
 autocmd FileType gitcommit set colorcolumn=73
-set colorcolumn=101
+set colorcolumn=81
+" set colorcolumn=101
 
 " Quicker window movement
 nnoremap <C-j> <C-w>j
