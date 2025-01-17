@@ -16,7 +16,8 @@ using it to leave some breadcrumbs to future versions of myself about how to set
 3. Click on the gear icon and select the Import... entry
 4. Import the downloaded Nord.terminal file
 
-![][./imgs/ss-nord-installation.png]
+![nord-theme-terminal-import](./imgs/ss-nord-installation.png)
+
 
 ## Acknowledgements
 - Thanks to [Nerd Fonts](https://github.com/ryanoasis/nerd-fonts) for the font
